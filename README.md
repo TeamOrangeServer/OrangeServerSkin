@@ -1,0 +1,2 @@
+# OrangeServerSkin
+FruitLauncherベースのLauncherのためのスキン
