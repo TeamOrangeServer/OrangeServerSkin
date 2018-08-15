@@ -2,8 +2,8 @@
 	"newsURL":"http://teamsousuke.dip.jp/ModPack/fl/news.html",
 	"tipsURL":"https://teamfruit.gitlab.io/fruitnews/tips.json",
 	"supportURL":"https://discord.gg/3F4r97p",
-	"langURL":"言語",
-	"backgroundURL":"https://gyazo.com/b465ec71823c1ec13c60db8142c01ab6/raw",
+	"langURL":"https://raw.githubusercontent.com/sousuke0422/OrangeServerSkin/master/Launcher.properties",
+	"backgroundURL":"http://teamsousuke.dip.jp/ModPack/fl/launcher_bg.jpg",
 	"showList":true,
 	"selectModPack":"パック名",
 	"loginModPack":null
