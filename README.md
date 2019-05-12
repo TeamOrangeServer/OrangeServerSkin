@@ -1,2 +1,4 @@
 # OrangeServerSkin
 FruitLauncherベースのLauncherのためのスキン
+
+OrangeLauncher4でも続投です。
